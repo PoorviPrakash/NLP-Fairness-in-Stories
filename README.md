@@ -13,5 +13,5 @@ Run in the follwing order to identify useful fairness based trends
     2. Genre-based Categories: General, Children, Fiction, Male_Author, Female_Author
 
 
-Active internet connection is required for downloading stories from Gutenberg(we are using html links to fetch stories)
+Active internet connection is required for downloading stories from Gutenberg (we are using html links to fetch stories)
 
