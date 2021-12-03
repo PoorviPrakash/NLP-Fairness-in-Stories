@@ -7,6 +7,9 @@ Run in the follwing order to identify useful fairness based trends
     2. Extracts Events using Spacy
     3. Categorizes events on gender and filters out non-gender based events
 2. Visualizations.ipynb
-3. weat.ipynb
+    1. Visualizes odds ratio scores of our extracted events
+4. weat.ipynb
+    1. Computes the weat scores using the word2vec model for the 5 different genre-based categories of our stories dataset:
+    2. Genre-based Categories: General, Children, Fiction, Male_Author, Female_Author
 
 
